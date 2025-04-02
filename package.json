@@ -1,0 +1,20 @@
+{
+  "name": "jsles26",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "parcel": "^2.14.4"
+  },
+  "homepage": "https://your-username.github.io/your-repository-name"
+}
