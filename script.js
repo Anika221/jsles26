@@ -1,2 +1,2 @@
-import { progect } from "./js/progect"
+import { progect } from "./progect.js"
 progect()
